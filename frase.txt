@@ -1,0 +1,1 @@
+Oi, bora fazer o python falar? Basta usar o codigo que eu criei e modificar o texto.
